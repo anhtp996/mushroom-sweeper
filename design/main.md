@@ -40,6 +40,7 @@ Minesweeper (main mode) combine with farm (as secondary mode)
 2. In build & upgrade base mode: Player is the owner of the Poro far
 
 ## Core loop
+![image info](./asset/core_loop.png)
 
 ## Features
 1. Leaderboard (for each mode)
