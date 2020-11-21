@@ -10,64 +10,66 @@
 I wanna:
 * Bring my feeling when I first time discover how to play minesweeper for people who never play/hear/know how to play it before.
 * Bring something new, something more satify, comfortable feeling for those who love to play minesweeper
-* Share some thought about minesweeper and life
 * Personal stuff: Learn to making games (from designing, drawing, coding, testing, bring it to the right players), earn some money
 
 # Content
-1. Gameplay
-2. Game elements
-3. Assets
-4. Screen UI Flow
-5. Monetization
+1. Minesweeper normal mode
+2. Adventure mode
+3. Endless mode
+4. Events
+5. Poro farm
+6. Pet system
+7. Skill system
+8. Items
+9. Upgrade items system
 
 # Overview
-**Poro - Mushroom Sweeper** is the combination of minesweeper with cute character and farm (building, upgrading, exploring)
+**Poro - Mushroom Sweeper** 
 
 ## Main concept
-Minesweeper (main mode) combine with farm (as secondary mode)
+Minesweeper + RPG + Farm
+
+## Player role
+Player is a hero try to fight with evil rescure Poro
+
+## Final Goal
+Upgrade the character
 
 ## Unique selling point
-1. Endless mode
-2. Cool character & animation
+1. Poro farm (compare to other RPG minesweeper games)
+2. Combat action (with skill system) (compare to other minesweeper games)
 3. Cool map (environment) - change when clearing map (Ex. Snow, Forest, Sea, etc.)
 
 ## Game modes
-1. Minesweeper: Normal (clear map to get XP, coins, resource), Leveling (clear map to explore more map), endless map
+1. Minesweeper: Normal (clear map to get XP, coins, resource), Adventure (clear map to explore more map, chapter to chapter), endless map, Event (clear every 2 or 3 days)
 2. Build & Upgrade Base (Poro farm)
 
-## Player role
-1. In minesweeper mode: Player is the Poro try to clear map
-2. In build & upgrade base mode: Player is the owner of the Poro far
-
 ## Core loop
-![image info](./asset/core_loop.png)
-
-## Features
-1. Leaderboard (for each mode)
-2. Control setting
-3. High score (for each mode)
+![Core loop](./asset/core_loop.png)
 
 ## Target audience
 * Player who love to play minesweeper
 * Puzzle game player
 * Player who love cute character/animal (cat, poro, etc.)
+* Offline PRG players
 
 ## Genre
 * Puzzle
+* Action
+* RPG
 
 ## Art style
-Cartoon, square block
-
-## Form of engagement
+Cartoon, square block (Bom online, Achero)
 
 ## Monetization
+* IAP: Buy gem, items, remove ads, offers, skin
+* Ads: Revived, energy, free coins, items
 
-## Platform target
+## Target platform
+Mobile: Android, IOS
 
 ## Engine
-
-## Tools
-
+Cocos2dx (C++)
 
 ## Reference
 ### [Minesweeper][1]
